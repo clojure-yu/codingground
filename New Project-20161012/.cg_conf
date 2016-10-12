@@ -1,0 +1,1 @@
+{"id":"clojure","ext":"clj","version":"Clojure v1.8.0","compile":"","execute":"java -jar /usr/share/java/clojure.jar -i main.clj","preview":"","command":"","file":"/home/cg/src/samples/main.clj","url":"execute_clojure_online.php","mode":"java"}
